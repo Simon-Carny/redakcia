@@ -1,1 +1,4 @@
 Šimon Čarný: Práca so SmartGitom: 11.5.2021
+Ak hľadáte grafických klientov na správu ísť pretože ste jedným z tých, ktorí až tak neradi pracujú z terminálu, potom ste hľadali tento článok, 
+pretože predstavujeme tri zaujímavé alternatívy, ako získať dobrého klienta pre nástroj Git a spravovať tak svoj kód vo viac graficky a intuitívne vo vašej distribúcii GNU / Linux. 
+Aj pre tých z vás, ktorí už poznajú prácu s Gitom z konzoly pre textový režim, by vás to mohlo rovnako zaujímať, ak ho nepoznáte.
