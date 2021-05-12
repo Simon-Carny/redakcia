@@ -1,10 +1,8 @@
 Šimon Čarný: Práca so SmartGitom: 11.5.2021
-Ak hľadáte grafických klientov na správu ísť pretože ste jedným z tých, ktorí až tak neradi pracujú z terminálu, potom ste hľadali tento článok, 
-pretože predstavujeme tri zaujímavé alternatívy, ako získať dobrého klienta pre nástroj Git a spravovať tak svoj kód vo viac graficky a intuitívne vo vašej distribúcii GNU / Linux. 
-Aj pre tých z vás, ktorí už poznajú prácu s Gitom z konzoly pre textový režim, by vás to mohlo rovnako zaujímať, ak ho nepoznáte.
+Ako vieš, Git je program na správu verzií používajú vývojári najviac, najmä v systéme Linux, pretože ho vytvoril Linus Torvalds. 
+Ako to ale v prostredí UNIX zvyčajne býva, s výnimkou systému macOS sa väčšina práce vykonáva pomocou konzoly a príkazov, ktoré máme k dispozícii.
+ To je niečo, čo sa niekomu nepáči, ale niekomu, kto nechce opustiť konzolu pre grafické nástroje za nič na svete. 
+Ak patríte k tým, ktorí uprednostňujú grafické používateľské rozhranie, odporúčame vám 3 dobrých grafických klientov Git:
 
-GitKraken: je a projekt ktorá umožňuje grafickú prácu s Git a Github. Rovnako ako SmartGit funguje na systémoch macOS, Windows a Linux, preto je to multiplatformový nástroj. 
-Ale na rozdiel od SmartGit, ktorý má veľmi zjednodušené rozhranie, GitKraken hľadá pekný dizajn, ale s niektorými ďalšími funkciami v aréne dostupných nástrojov. 
-Pre komerčné použitie je to zadarmo, ale za plné využitie sa platí, hoci si ho môžete vyskúšať na 15 dní zadarmo.
-Git Cola: je a projekt slobodný softvér napísaný v Pythone a vytvorený tak, aby bol výkonný a jednoduchý. Na rozdiel 
-od predchádzajúcich dvoch je veľmi základný, aj keď ak sa chcete zbaviť licencií a platiť, môže to byť najzaujímavejšia možnosť.
+SmartGit: je a projekt implementovať tento bezplatný nástroj na nekomerčné použitie (na komerčné použitie musíte zaplatiť licenciu vo výške približne 99 dolárov). 
+Jeho rozhranie je celkom úplné, má množstvo funkcií a je ľahko použiteľné, pretože je jedným z najintuitívnejších, aké existujú. Je k dispozícii aj pre systémy Linux, macOS a Windows.
