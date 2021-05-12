@@ -1,1 +1,5 @@
 Šimon Čarný: Vytvaranie vzdialeneho repozitara: 11.5.2021
+Ako vieš, Git je program na správu verzií používajú vývojári najviac, najmä v systéme Linux, pretože ho vytvoril Linus Torvalds. 
+Ako to ale v prostredí UNIX zvyčajne býva, s výnimkou systému macOS sa väčšina práce vykonáva pomocou konzoly a príkazov, ktoré máme k dispozícii.
+ To je niečo, čo sa niekomu nepáči, ale niekomu, kto nechce opustiť konzolu pre grafické nástroje za nič na svete. 
+Ak patríte k tým, ktorí uprednostňujú grafické používateľské rozhranie, odporúčame vám 3 dobrých grafických klientov Git:
