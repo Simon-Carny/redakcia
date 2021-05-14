@@ -4,7 +4,7 @@ Datum: 11.5.2021
 ----
 Vytvorit originalny
 uvod nie je lahke, preto
-ta nazvem uvod 2
+to nazvem uvod 2
 ----
 SmartGit: je a projekt implementovať tento bezplatný nástroj na nekomerčné použitie (na komerčné použitie musíte zaplatiť licenciu vo výške približne 99 dolárov). 
 Jeho rozhranie je celkom úplné, má množstvo funkcií a je ľahko použiteľné, pretože je jedným z najintuitívnejších, aké existujú. Je k dispozícii aj pre systémy Linux, macOS a Windows.
